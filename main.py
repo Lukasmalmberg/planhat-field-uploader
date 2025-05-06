@@ -15,7 +15,7 @@ TEMPLATE = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Planhat Field Uploader</title>
+    <title>Planhat Field Magicician</title>
     <style>
         body {
             font-family: Arial, sans-serif;
